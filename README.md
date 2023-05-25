@@ -2,5 +2,5 @@
 
 Trabalho feito utilizando as tecnologias:
 <br>-HTML
--CSS
--Javascript
+<br>-CSS
+<br>-Javascript
